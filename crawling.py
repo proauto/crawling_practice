@@ -24,3 +24,4 @@ def get_single_article(detail_url):
 
 spider(220542197465)
 get_single_article(220542197465)
+
